@@ -13,7 +13,7 @@ Built with Flexbox and Grid
 
 **How to Use**
 
-Clone the repository: git clone https://github.com/your-username/udemy-clone.git 
+Clone the repository:t https://aishwaryasenthilnathan.github.io/udemy-model-website/
 
 Open index.html in your browser.
 
